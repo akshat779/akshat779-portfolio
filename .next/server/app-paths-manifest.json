@@ -1,0 +1,11 @@
+{
+  "/(public)/introduction/page": "app/(public)/introduction/page.js",
+  "/(public)/notes/page": "app/(public)/notes/page.js",
+  "/(public)/projects/page": "app/(public)/projects/page.js",
+  "/(public)/workbench/page": "app/(public)/workbench/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js"
+}

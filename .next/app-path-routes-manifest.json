@@ -1,0 +1,11 @@
+{
+  "/(public)/introduction/page": "/introduction",
+  "/(public)/notes/page": "/notes",
+  "/(public)/projects/page": "/projects",
+  "/(public)/workbench/page": "/workbench",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/page": "/",
+  "/robots.txt/route": "/robots.txt",
+  "/sitemap.xml/route": "/sitemap.xml"
+}
